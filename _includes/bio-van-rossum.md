@@ -30,6 +30,12 @@ https://gvanrossum.github.io/ όπου πιο πολλά αναφέρει για
 Google, Elemental Security, Zope Corporation, BeOpen.com, CNRI, CWI και SARA.
 
 
+{% include figure image_path="/images/license-grantee.jpg" 
+caption="Figure 2: H γραπτή άδεια από το Ελληνικό Μουσείο Πληροφορικής για την αξιοποίηση
+του άρθρου τους." id="fig:Hellenic-Museum-of-Computer-Science" %}
+
+
+
 <!--
 van-rossum-headshot:https://gvanrossum.github.io/images/guido-headshot-2019.jpg
 van-rossum-profile:https://el.wikipedia.org/wiki/%CE%93%CE%BA%CE%AF%CE%BD%CF%84%CE%BF_%CE%B2%CE%B1%CE%BD_%CE%A1%CF%8C%CF%83%CF%83%CE%BF%CF%85%CE%BC
