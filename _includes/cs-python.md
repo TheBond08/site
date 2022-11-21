@@ -52,12 +52,12 @@ odroid-n2l, odroid-h3/h3+ κα. μπορούν με ευκολία να υποσ
 στατιστικά στοιχεία του ιδρύματος TIOBE, προκύπτει πως βρίσκεται στην πρώτη θέση της κατάταξης
 με στατιστικά μέτρα από τον Νοέμβριο του 2022 με ποσοστό χρήσης: 17,18% από όλον τον κόσμο. 
 
-{% include figure image_path="/images/python-statistics-2022.jpg" caption="Figure 3: Τα στατιστικά στοιχεία από την ιστοσελίδα TIOBE" %}
+{% include figure image_path="/images/python-statistics-2022.jpg" caption="Figure 3: Τα στατιστικά στοιχεία από την ιστοσελίδα TIOBE. Πηγή: TIOBE: https://www.tiobe.com/tiobe-index/python/" %}
 
 Τέλος, προκύπτει ο παρακάτω πίνακας με τα στοιχεία κατάταξης των γλωσσών προγραμματισμών που 
 χρησιμοποιούνται από όλον τον κόσμο, κατατάσσοντας την Python στην πρώτη θέση, στην δεύτερη την
 C, στην τρίτη την Java, στην τέταρτη την C++ και στην πέμπτη την C#
 
-{% include figure image_path="/images/programming-languages-statistics-2022.jpg" caption="Figure 4: Τα στατιστικά στοιχεία από την παγκόσμια κατάταξη των γλωσσών προγραμματισμού από την ιστοσελίδα TIOBE" %}
+{% include figure image_path="/images/programming-languages-statistics-2022.jpg" caption="Figure 4: Τα στατιστικά στοιχεία από την παγκόσμια κατάταξη των γλωσσών προγραμματισμού από την ιστοσελίδα TIOBE. Πηγή: TIOBE: https://www.tiobe.com/tiobe-index/" %}
 
 [^1]: fig: python-language
