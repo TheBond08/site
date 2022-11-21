@@ -32,8 +32,7 @@ Google, Elemental Security, Zope Corporation, BeOpen.com, CNRI, CWI και SARA.
 
 {% include figure image_path="/images/license-grantee.jpg" 
 caption="Figure 2: H γραπτή άδεια από το Ελληνικό Μουσείο Πληροφορικής για την αξιοποίηση
-του άρθρου τους." id="fig:Hellenic-Museum-of-Computer-Science" %}
-
+του άρθρου τους. Πηγή: Ελληνικό Μουσείο Πληροφορικής: https://bit.ly/3Xfnymx" id="fig:Hellenic-Museum-of-Computer-Science" %}
 
 
 <!--
