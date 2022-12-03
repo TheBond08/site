@@ -1,21 +1,21 @@
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Terminal-Killers/_gallery
+	url = https://github.com/TheBond08/_gallery
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/Terminal-Killers/_quotes
+	url = https://github.com/TheBond08/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/Terminal-Killers/images
+	url = https://github.com/TheBond08/images
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/Terminal-Killers/bibliography
+	url = https://github.com/TheBond08/bibliography
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/Terminal-Killers/notes
+	url = https://github.com/TheBond08/notes
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/Terminal-Killers/extras
+	url = https://github.com/TheBond08/extras
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/Terminal-Killers/text
+	url = https://github.com/TheBond08/text
