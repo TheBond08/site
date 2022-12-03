@@ -1,7 +1,7 @@
 Ο Timothy John Berners-Lee είναι γνωστός ως ο εφευρέτης του Παγκόσμιου Ιστού. Σήμερα είναι διευθηντής του [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium)
 και καθηγητής στο [Τεχνολογικό Ινστιτούτο Μασαχουσέτης](https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology).
 
-{% include figure image_path="/images/bernes-lee2.jpg" caption="Figure 1: Ο Tim Berners-Lee εργαζόμενος στο CERN." id="fig:berners-lee2" %}
+{% include figure image_path="/images/berners-lee2.jpg" caption="Figure 1: Ο Tim Berners-Lee εργαζόμενος στο CERN." id="fig:berners-lee2" %}
 
 Γεννήθηκε στις 8 Ιουνίου 1955 στο Λονδίνο. Φοίτησε στο Emanuel School του Wandsworth και στη συνέχεια στο Queen's College του Πανεπιστημίου της Οξφόρδης.
 Μετά την αποφοίτηση του, από την Οξφόρδη το 1976, εργάστηκε ως μηχανικός στην Βρετανική εταιρεία Plessey. Το 1980 εργάστηκε στο CERN ως Σύμβουλος Μηχανικός Προγραμματισμού,
