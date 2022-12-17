@@ -9,6 +9,7 @@ events:
   - microsoft-basic
   - visual-basic-form-designer
   - python
+  - html
   - java
   - smalltalk
   - pygmalion
