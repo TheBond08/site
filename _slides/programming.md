@@ -27,4 +27,5 @@ slides:
   - learntomod
   - python
   - java
+  - html
 ---
